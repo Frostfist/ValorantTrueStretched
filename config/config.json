@@ -1,0 +1,21 @@
+{
+   "App": {
+      "Window": {
+         "Title": "Valorant True Stretched",
+         "Resizable": true,
+         "Width": 500.0,
+         "Height": 500.0,
+         "Min_Width": 400,
+         "Min_Height": 300,
+         "Max_Width": 500,
+         "Max_Height": 700
+      },
+      "Fonts": {
+         "Valorant": "assets/fonts/Valorant.tff"
+      },
+      "Search": true,
+      "Resolutions": [
+         "14421", "2132315"
+      ]
+   }
+}
